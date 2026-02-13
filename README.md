@@ -5,4 +5,4 @@ The core idea is to close the loop: Waste is collected and processed into energy
 
 ## we are implementing it soon
 using python and fastapi
-with micro services
+with micro services and digit or crypto currency
