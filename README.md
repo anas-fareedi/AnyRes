@@ -7,4 +7,3 @@ The core idea is to close the loop: Waste is collected and processed into energy
 using python and fastapi
 with micro services and digit or crypto currency for payment due to decentralized and privacy
 and adding p2p like services in this platform ....
-for buisness person
