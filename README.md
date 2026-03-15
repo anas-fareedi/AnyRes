@@ -8,4 +8,4 @@ with micro services and digit or crypto currency for payment due to decentralize
 and adding p2p like services in this platform
 
 ## Plastic-Credit
-The adaptation of carbon credit mechanisms to plastic waste is highly innovative and addresses multiple SDGs simultaneously
+The adaptation of carbon credit mechanisms to plastic waste is highly innovative and addresses multiple SDGs simultaneously ....
